@@ -1,3 +1,5 @@
-# rust_file-decompressor
 
-###### use: cargo run fileName
+# Rust file-decompressor 
+
+cargo run fileName
+
